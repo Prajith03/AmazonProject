@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-28T12:10:41 IST" name="Default suite" finished-at="2025-03-28T12:11:17 IST" duration-ms="36215">
+    <groups>
+    </groups>
+    <test started-at="2025-03-28T12:10:41 IST" name="Default test" finished-at="2025-03-28T12:11:17 IST" duration-ms="36215">
+      <class name="MobileSearchAutomation.Main">
+        <test-method is-config="true" signature="driverSetup()[pri:0, instance:MobileSearchAutomation.Main@3b0090a4]" started-at="2025-03-28T12:10:41 IST" name="driverSetup" finished-at="2025-03-28T12:10:51 IST" duration-ms="9974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverSetup -->
+        <test-method signature="searchMobile()[pri:1, instance:MobileSearchAutomation.Main@3b0090a4]" started-at="2025-03-28T12:10:51 IST" name="searchMobile" finished-at="2025-03-28T12:11:11 IST" duration-ms="19905" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchMobile -->
+        <test-method signature="sortByNewestArrivals()[pri:2, instance:MobileSearchAutomation.Main@3b0090a4]" started-at="2025-03-28T12:11:11 IST" name="sortByNewestArrivals" finished-at="2025-03-28T12:11:12 IST" duration-ms="707" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortByNewestArrivals -->
+        <test-method signature="validateResults()[pri:3, instance:MobileSearchAutomation.Main@3b0090a4]" started-at="2025-03-28T12:11:12 IST" name="validateResults" finished-at="2025-03-28T12:11:13 IST" duration-ms="663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateResults -->
+        <test-method is-config="true" signature="quitBrowser()[pri:0, instance:MobileSearchAutomation.Main@3b0090a4]" started-at="2025-03-28T12:11:13 IST" name="quitBrowser" finished-at="2025-03-28T12:11:17 IST" duration-ms="4897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitBrowser -->
+      </class> <!-- MobileSearchAutomation.Main -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
